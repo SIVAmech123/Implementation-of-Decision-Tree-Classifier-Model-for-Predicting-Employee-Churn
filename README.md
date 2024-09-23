@@ -48,7 +48,6 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![decision tree classifier model](sam.png)
 ![image](https://github.com/user-attachments/assets/045f5713-68c8-45cc-8025-06a563755566)
 
 ![image](https://github.com/user-attachments/assets/7b2e849b-5362-42c7-aa9b-e11197a18184)
