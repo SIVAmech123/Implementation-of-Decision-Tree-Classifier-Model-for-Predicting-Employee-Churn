@@ -1,10 +1,10 @@
 # Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
 ```
-/*
+
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 Developed by: RajalakshmiR
 RegisterNumber:  212223110037
-*/
+
 ```
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
